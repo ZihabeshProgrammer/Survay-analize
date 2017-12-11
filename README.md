@@ -1,0 +1,3 @@
+# Survey-analize    
+
+this is a php web page for anaylizing a company from the data givin...
